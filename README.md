@@ -9,6 +9,9 @@ Liquidity ratios (Current, Quick, etc.) 2.Profitability ratios (Net Profit Margi
 Turnover ratios (Inventory Turnover, Asset Turnover, etc.) 4.Leverage ratios (Debt-Equity, Interest Coverage, etc.)
 Generate percentage change between current and previous year *Dashboard with: a. Tabular display of ratio results b. Percentage change indicators c. Bar charts for visual comparison *Benchmarking of ratios with industry standards
 
-The full source code has been removed to protect proprietary work.
-Recruiters, professors, or evaluators may request access to the private repository.
-Please email me to request full access.
+Full Source Code Available on Request
+
+This repository contains the project description, methodology, screenshots of outputs, and sample components.
+To protect proprietary work, the complete source code is stored in a private repository.
+Recruiters or evaluators may request full access by contacting me at:srihariprojects98@gmail.com
+
